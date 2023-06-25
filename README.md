@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img width="45" src="waving_hand.gif">,  </h1>
 
-<h1> Hi there <img width="45" src="waving_hand.gif"></h1>
+<h1> Hi there <img width="45" src="waving_hand.gif">,</h1>
 
 ![](https://komarev.com/ghpvc/?username=slmsshk&color=brightgreen)
 
@@ -15,6 +15,17 @@ My entrepreneurial endeavours have led me to establish successful ventures withi
 To showcase the breadth and depth of my knowledge and accomplishments, I have curated a special repository on GitHub. This repository serves as a testament to my expertise across multiple disciplines. Inside, you will find a rich collection of groundbreaking research, innovative projects, and practical implementations that span the diverse fields I have explored.
 
 I invite you to explore my GitHub repository, where you can gain valuable insights, inspiration, and cutting-edge solutions that can fuel your own research and endeavours. Together, let us embrace the limitless possibilities of technology and strive for excellence across multiple domains, shaping a brighter future for industries worldwide.
+
+# My public work
+- 👨‍💻 All of my projects are available [here](https://github.com/ibrahimjelliti?tab=repositories)
+
+
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=slmsshk&show_icons=true" alt="slmsshk" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slmsshk&layout=compact" alt="slmsshk" />
+</p>
+
+
 <!--
 **slmsshk/slmsshk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
