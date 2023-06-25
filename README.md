@@ -23,7 +23,9 @@ I invite you to explore my GitHub repository, where you can gain valuable insigh
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slmsshk&layout=compact" alt="slmsshk" />
 </p>
 
-
+<p align="center">
+<a href="https://www.linkedin.com/in/slmsshk/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="https://www.linkedin.com/in/slmsshk/" height="32" width="32" /></a>
+</p>
 <!--
 **slmsshk/slmsshk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
