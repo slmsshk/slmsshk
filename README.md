@@ -1,5 +1,3 @@
-<h1 align="center">Hi <img width="45" src="waving_hand.gif">,  </h1>
-
 <h1> Hi there <img width="45" src="waving_hand.gif">,</h1>
 
 ![](https://komarev.com/ghpvc/?username=slmsshk&color=brightgreen)
