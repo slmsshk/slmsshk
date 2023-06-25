@@ -25,6 +25,7 @@ I invite you to explore my GitHub repository, where you can gain valuable insigh
 
 <p align="center">
 <a href="https://www.linkedin.com/in/slmsshk/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="https://www.linkedin.com/in/slmsshk/" height="32" width="32" /></a>
+<a href="https://www.facebook.com/salemsit" target="blank"><img align="center" src="https://icons8.com/icon/434/facebook" alt="https://www.facebook.com/salemsit" height="32" width="32" /></a>
 </p>
 
 <!--
