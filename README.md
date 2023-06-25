@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img width="45" src="waving_hand.gif">
 ![](https://komarev.com/ghpvc/?username=slmsshk&color=brightgreen)
 
 I am Salem Shaikh, an esteemed academic, researcher, and entrepreneur with a wealth of knowledge spanning multiple disciplines. Throughout my illustrious career, I have delved into various fields, including data science, artificial intelligence, machine learning, hospitality, aviation, and medical sciences, among others.
