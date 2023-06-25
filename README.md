@@ -30,7 +30,7 @@ I invite you to explore my GitHub repository, where you can gain valuable insigh
 </p>
 
 <!--
-**slmsshk/slmsshk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**slmsshk/slmss hk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
