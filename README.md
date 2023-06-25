@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![](https://komarev.com/ghpvc/?username=slmsshk&color=brightgreen)
 I am Salem Shaikh, an esteemed academic, researcher, and entrepreneur with a wealth of knowledge spanning multiple disciplines. Throughout my illustrious career, I have delved into various fields, including data science, artificial intelligence, machine learning, hospitality, aviation, and medical sciences, among others.
 
 With an unwavering passion for learning and an insatiable curiosity, I have pursued excellence in each of these domains. Holding two doctorate degrees, I have dedicated my life to expanding the boundaries of knowledge and making significant contributions across diverse industries.
@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://komarev.com/ghpvc/?username=slmsshk&color=brightgreen)
+
 
 <!-- <h1> This is my special repository</h1> -->
