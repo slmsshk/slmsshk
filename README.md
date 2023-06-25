@@ -15,7 +15,7 @@ To showcase the breadth and depth of my knowledge and accomplishments, I have cu
 I invite you to explore my GitHub repository, where you can gain valuable insights, inspiration, and cutting-edge solutions that can fuel your own research and endeavours. Together, let us embrace the limitless possibilities of technology and strive for excellence across multiple domains, shaping a brighter future for industries worldwide.
 
 # My public work
-- 👨‍💻 All of my projects are available [here](https://github.com/ibrahimjelliti?tab=repositories)
+- 👨‍💻 All of my projects are available [here](https://github.com/slmsshk?tab=repositories)
 
 
 <p align="center"> 
@@ -26,6 +26,7 @@ I invite you to explore my GitHub repository, where you can gain valuable insigh
 <p align="center">
 <a href="https://www.linkedin.com/in/slmsshk/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="https://www.linkedin.com/in/slmsshk/" height="32" width="32" /></a>
 </p>
+
 <!--
 **slmsshk/slmsshk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
