@@ -19,7 +19,7 @@ I invite you to explore my GitHub repository, where you can gain valuable insigh
 
 
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=slmsshk&show_icons=true" alt="slmsshk" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=slmsshk&show_icons=true" alt="slmsshk" /> -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slmsshk&layout=compact" alt="slmsshk" />
 </p>
 
