@@ -24,9 +24,9 @@ I invite you to explore my GitHub repository, where you can gain valuable insigh
 </p>
 
 <p align="center">
-    <a href="https://salemsit.org.in/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/domain--v1.png" alt="https://salemsit.org.in/" height="32" width="32" /></a>
+<!--     <a href="https://salemsit.org.in/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/domain--v1.png" alt="https://salemsit.org.in/" height="32" width="32" /></a> -->
     <a href="https://www.linkedin.com/in/slmsshk/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="https://www.linkedin.com/in/slmsshk/" height="32" width="32" /></a>
-    <a href="https://www.facebook.com/salemsit" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/facebook.png" alt="https://www.facebook.com/salemsit" height="32" width="32" /></a>
+<!--     <a href="https://www.facebook.com/salemsit" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/facebook.png" alt="https://www.facebook.com/salemsit" height="32" width="32" /></a> -->
 </p>
 
 <!--
